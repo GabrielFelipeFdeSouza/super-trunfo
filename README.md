@@ -1,2 +1,2 @@
 # super-trunfo
-Jogo supertrunfo desenvolvido para a aula de Fundamentos de Programação do Prof. Muriel Godoi
+Jogo Super Trunfo desenvolvido como o projeto final da matéria de Fundamentos de Programação do Prof. Muriel Godoi, da Universidade Tecnológica Federal do Paraná.
